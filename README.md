@@ -1,2 +1,2 @@
-# todo_list_vite
+# Todo List
 Todo List - ReactJS + Typescript + Vite + TailwindCSS 
