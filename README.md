@@ -2,7 +2,6 @@
     <a href="https://pt-br.reactjs.org/">🔗 Todo List</a>
 </h1>
 <p align="left">🚀 Aplicação web desenvolvida utilizando as tecnologias ReactJS (Vite) + Typescript + TailwindCSS para criar e reordernar sua lista de tarefas diárias através do método <i>drag in drop</i>.</p>
-<br />
 
 Execução
 =================
